@@ -1,0 +1,2 @@
+# BiometricKeyStoreSample
+支持Api23&amp;28的AndroidX库生物认证与Android KeyStore加密配合使用，可有效防止数据篡改
